@@ -1,4 +1,4 @@
-# GitLab AI Assistant
+# GitLab AI Hackathon
 
 AI-powered GitLab assistant for code reviews and MR descriptions
 
